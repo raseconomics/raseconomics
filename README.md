@@ -5,7 +5,7 @@
 
 :bulb: Pasante de investigación en el Laboratorio de Innovación en Salud de la Universidad Privada Cayeteno Heredia
 
-:pencil2: Voluntarios en el proyecto Manos a la data
+:pencil2: Voluntario en el proyecto Manos a la data
 
 :memo: Tengo interés de estudio en temas relacionados a pobreza, educación, salud e inclusión financiera.
 
