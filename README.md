@@ -3,7 +3,7 @@
 
 :pushpin: Actualmente laboro como asistente de investigación en la Red de estudios para el desarrollo.
 
-:bulb: Pasante de investigación en el Laboratorio de Innovación en Salud de la Universidad Privada Cayeteno Heredia
+:bulb: También soy asistente de investigación en el Laboratorio de Innovación en Salud de la Universidad Privada Cayeteno Heredia
 
 :pencil2: Voluntario en el proyecto Manos a la data
 
