@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es César
 #### Soy bachiller en *Economía* :chart_with_upwards_trend: por Universidad Nacional Mayor de San Marcos
 
-:pushpin: Actualmente laboro como asistente de investigación en la Red de estudios para el desarrollo.
+:pushpin: Actualmente laboro como analista de investigación en la Red de estudios para el desarrollo.
 
 :bulb: También soy asistente de investigación en el Laboratorio de Innovación en Salud de la Universidad Privada Cayeteno Heredia
 
